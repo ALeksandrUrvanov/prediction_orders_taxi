@@ -6,10 +6,16 @@
 
 Разработать модель прогнозирования количество заказов такси на следующий час. Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 
-## Используемые библиотеки
+## Навыки и инструменты
 - pandas
 - numpy
+- matplotlib
 - sklearn
+- statsmodels
+- RandomForestRegressor
+- Ridge
+- CatBoostRegressor
+- LGBMRegressor
 
 ## Отработанные методы и навыки
 
